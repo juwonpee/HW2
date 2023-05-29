@@ -1,99 +1,229 @@
-Start of experience  0
--- >> Start of training phase << --
-100%|██████████| 63/63 [00:05<00:00, 10.68it/s]
-Epoch 0 ended.
-	Loss_Epoch/train_phase/train_stream/Task000 = 2.3767
-	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.6152
-100%|██████████| 63/63 [00:05<00:00, 11.11it/s]
-Epoch 1 ended.
-	Loss_Epoch/train_phase/train_stream/Task000 = 0.5475
-	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.7218
-100%|██████████| 63/63 [00:05<00:00, 11.47it/s]
-Epoch 2 ended.
-	Loss_Epoch/train_phase/train_stream/Task000 = 0.4842
-	Top1_Acc_Epoch/train_phase/train_stream/Task000 = 0.7714
--- >> End of training phase << --
-Training completed
-Computing accuracy on the whole test set
--- >> Start of eval phase << --
--- Starting eval on experience 0 (Task 0) from test stream --
-100%|██████████| 16/16 [00:00<00:00, 16.85it/s]
-> Eval on experience 0 (Task 0) from test stream ended.
-	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 0.5075
-	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.7560
--- Starting eval on experience 1 (Task 1) from test stream --
-100%|██████████| 16/16 [00:01<00:00, 14.91it/s]
-> Eval on experience 1 (Task 1) from test stream ended.
-	Loss_Exp/eval_phase/test_stream/Task001/Exp001 = 0.6658
-	Top1_Acc_Exp/eval_phase/test_stream/Task001/Exp001 = 0.6100
--- Starting eval on experience 2 (Task 2) from test stream --
-100%|██████████| 16/16 [00:01<00:00, 13.34it/s]
-> Eval on experience 2 (Task 2) from test stream ended.
-	Loss_Exp/eval_phase/test_stream/Task002/Exp002 = 0.9064
-	Top1_Acc_Exp/eval_phase/test_stream/Task002/Exp002 = 0.4375
--- Starting eval on experience 3 (Task 3) from test stream --
-100%|██████████| 16/16 [00:01<00:00, 13.44it/s]
-> Eval on experience 3 (Task 3) from test stream ended.
-	Loss_Exp/eval_phase/test_stream/Task003/Exp003 = 0.6669
-	Top1_Acc_Exp/eval_phase/test_stream/Task003/Exp003 = 0.6425
--- Starting eval on experience 4 (Task 4) from test stream --
-100%|██████████| 16/16 [00:01<00:00, 13.03it/s]
-> Eval on experience 4 (Task 4) from test stream ended.
-	Loss_Exp/eval_phase/test_stream/Task004/Exp004 = 1.0703
-	Top1_Acc_Exp/eval_phase/test_stream/Task004/Exp004 = 0.3925
--- >> End of eval phase << --
-	Loss_Stream/eval_phase/test_stream/Task004 = 0.7634
-	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5677
-Start of experience  1
--- >> Start of training phase << --
-100%|██████████| 63/63 [00:10<00:00,  6.17it/s]
-Epoch 0 ended.
-	Loss_Epoch/train_phase/train_stream/Task001 = 0.8603
-	Top1_Acc_Epoch/train_phase/train_stream/Task001 = 0.6987
-100%|██████████| 63/63 [00:11<00:00,  5.39it/s]
-Epoch 1 ended.
-	Loss_Epoch/train_phase/train_stream/Task001 = 0.5236
-	Top1_Acc_Epoch/train_phase/train_stream/Task001 = 0.7749
-100%|██████████| 63/63 [00:09<00:00,  6.71it/s]
-Epoch 2 ended.
-	Loss_Epoch/train_phase/train_stream/Task001 = 0.5105
-	Top1_Acc_Epoch/train_phase/train_stream/Task001 = 0.7866
--- >> End of training phase << --
-Training completed
-Computing accuracy on the whole test set
--- >> Start of eval phase << --
--- Starting eval on experience 0 (Task 0) from test stream --
-100%|██████████| 16/16 [00:01<00:00, 13.75it/s]
-> Eval on experience 0 (Task 0) from test stream ended.
-	Loss_Exp/eval_phase/test_stream/Task000/Exp000 = 0.4586
-	Top1_Acc_Exp/eval_phase/test_stream/Task000/Exp000 = 0.7930
--- Starting eval on experience 1 (Task 1) from test stream --
-100%|██████████| 16/16 [00:01<00:00, 13.66it/s]
-> Eval on experience 1 (Task 1) from test stream ended.
-	Loss_Exp/eval_phase/test_stream/Task001/Exp001 = 0.4578
-	Top1_Acc_Exp/eval_phase/test_stream/Task001/Exp001 = 0.7995
--- Starting eval on experience 2 (Task 2) from test stream --
-100%|██████████| 16/16 [00:01<00:00, 13.43it/s]
-> Eval on experience 2 (Task 2) from test stream ended.
-	Loss_Exp/eval_phase/test_stream/Task002/Exp002 = 0.9273
-	Top1_Acc_Exp/eval_phase/test_stream/Task002/Exp002 = 0.4180
--- Starting eval on experience 3 (Task 3) from test stream --
-100%|██████████| 16/16 [00:01<00:00, 12.59it/s]
-> Eval on experience 3 (Task 3) from test stream ended.
-	Loss_Exp/eval_phase/test_stream/Task003/Exp003 = 0.5920
-	Top1_Acc_Exp/eval_phase/test_stream/Task003/Exp003 = 0.6830
--- Starting eval on experience 4 (Task 4) from test stream --
-100%|██████████| 16/16 [00:01<00:00, 12.84it/s]
-> Eval on experience 4 (Task 4) from test stream ended.
-	Loss_Exp/eval_phase/test_stream/Task004/Exp004 = 1.1588
-	Top1_Acc_Exp/eval_phase/test_stream/Task004/Exp004 = 0.2780
--- >> End of eval phase << --
-	Loss_Stream/eval_phase/test_stream/Task004 = 0.7189
-	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5943
-Start of experience  2
--- >> Start of training phase << --
-100%|██████████| 79/79 [00:12<00:00,  6.57it/s]
-Epoch 0 ended.
-	Loss_Epoch/train_phase/train_stream/Task002 = 0.7086
-	Top1_Acc_Epoch/train_phase/train_stream/Task002 = 0.6655
- 73%|███████▎  | 58/79 [00:10<00:03,  6.72it/s]
+ratio 8:2
+epoch 1
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6349
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6962
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7083
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7221
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5237
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7760
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.4469
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7862
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.3873
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.8346
+
+epoch 3
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.8863
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5537
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7022
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6118
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6422
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6492
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5970
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6851
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5517
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7088
+
+Epoch 5
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.0638
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6042
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6641
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6761
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7109
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7330
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5805
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7504
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.4313
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.8002
+
+
+Ratio 6:4
+epoch 1
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7118
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6313
+1
+	Loss_Epoch/train_phase/train_stream/Task002 = 0.6223
+	Top1_Acc_Epoch/train_phase/train_stream/Task002 = 0.7036
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5865
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6751
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5717
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6939
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5598
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7050
+epoch 3
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.8259
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5614
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6754
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6203
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5849
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6906
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5436
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7134
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.4999
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7564
+epoch 5
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.9010
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.4226
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.9741
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5308
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.8545
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6336
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5601
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7134
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.4715
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7831
+epoch 10
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.1856
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6079
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.0813
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6103
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6579
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6916
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5386
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7428
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.4931
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7741
+ratio 7:3
+epoch 1
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.0784
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.4739
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7896
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.4910
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7111
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5927
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6397
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6093
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5936
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6681
+epoch 3
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.9943
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.4853
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.8710
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5167
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6918
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5620
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6511
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6145
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5954
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6851
+epoch 5
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.2715
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5369
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.9345
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5717
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.9840
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5755
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6412
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6945
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.4824
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7821
+epoch 10
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.2056
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5293
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.0458
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5562
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7998
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5892
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7093
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6331
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6809
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6749
+
+ratio 8:2
+epoch 1
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.8945
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5280
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6974
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5890
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6304
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6555
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5928
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6876
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5775
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6810
+epoch 3
+0
+1
+2
+3
+4
+epoch 5
+0
+1
+2
+3
+4
+epoch 10
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.8075
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5327
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6935
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5001
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6933
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5000
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6935
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5000
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6932
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5000

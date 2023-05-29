@@ -1,0 +1,225 @@
+Naive
+Epoch 1
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.8316
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6127
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7850
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5961
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.9435
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6012
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5892
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6981
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5427
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7226
+Epoch 3
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.9024
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.4082
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7687
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5936
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6102
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6761
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6326
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7302
+4
+	Loss_Exp/eval_phase/test_stream/Task004/Exp004 = 0.5304
+	Top1_Acc_Exp/eval_phase/test_stream/Task004/Exp004 = 0.7270
+final
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6829
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6805
+
+Epoch 5
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.5841
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5501
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7882
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6272
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7045
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7047
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6071
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7446
+4
+	Loss_Exp/eval_phase/test_stream/Task004/Exp004 = 0.4722
+	Top1_Acc_Exp/eval_phase/test_stream/Task004/Exp004 = 0.7805
+final
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5718
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7527
+epoch 10
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.8928
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5411
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6300
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6764
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7404
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6957
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.9690
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7392
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.0807
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7253
+
+Train 5 times with epoch 1 each
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7138
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5965
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6260
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6637
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5905
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7012
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6000
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6904
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6357
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7159
+
+
+Ratio 7:3
+epoch 1
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.4757
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.4184
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7163
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5464
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6708
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6289
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6561
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6063
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6629
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6401
+
+epoch 3
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.0966
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5499
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.1523
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6767
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.4579
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6993
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5232
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7473
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5903
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7181
+
+epoch 5
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7574
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6090
+1
+	Loss_Epoch/train_phase/train_stream/Task002 = 0.2930
+	Top1_Acc_Epoch/train_phase/train_stream/Task002 = 0.8813
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.9209
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7119
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6112
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7232
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5346
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7789
+epoch 10
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.8326
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5506
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.9139
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6031
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.4486
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6787
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.6049
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6986
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.1801
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7111
+
+
+Ratio 6:4
+epoch 1
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.8649
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5856
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.8735
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6373
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7308
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5613
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6276
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6666
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6481
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6704
+epoch 3
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.8784
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5607
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.7788
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6048
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6426
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6719
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6198
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7052
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.5488
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7619
+epoch 5
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.8931
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5651
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.1592
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.5443
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.0791
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6254
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.1488
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6670
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.8466
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6873
+epoch 10
+0
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.1410
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6203
+1
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.1478
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6139
+2
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.4364
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7172
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.4692
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7202
+4
+	Loss_Stream/eval_phase/test_stream/Task004 = 1.3180
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.7702

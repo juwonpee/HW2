@@ -1,0 +1,7 @@
+epoch 1
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6351
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6644
+3
+	Loss_Stream/eval_phase/test_stream/Task004 = 0.6659
+	Top1_Acc_Stream/eval_phase/test_stream/Task004 = 0.6000
+5
